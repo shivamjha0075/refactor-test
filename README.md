@@ -13,3 +13,15 @@ Refactor the class "TennisGame1". You should use the language that's most famili
 1. Send us the link to your repo. Please make it private and give access to WayLit organization
 
 The test suite provided is fairly comprehensive, and fast to run. You should not need to change the tests, only run them often as you refactor.
+
+Changes by Shivam:
+In TennisGame1
+1. Made a seprate dict. Called `score_card` and addewd the score mapping there
+2. got rid of `tempScore` variable in score function
+3. Added space between the operators
+4. Got rid of the for loop in `score` function
+
+Changes in TennisGame2
+1. Removes all the unnecesaaray `and` operators
+
+All tests are passed
